@@ -1,7 +1,7 @@
 # 📌 SAP Capstone Project
 
 ## 📖 Project Title
-**[Enter Your Project Title Here]**
+
 
 ---
 
