@@ -37,7 +37,6 @@ Organizations face inefficiencies in managing procurement processes manually. Th
 ---
 
 ## 🔄 Project Type
-**[Choose One]**
 - Procure-to-Pay (P2P) – SAP MM  
 - Order-to-Cash (O2C) – SAP SD  
 - Record-to-Report (R2R) – SAP FI  
